@@ -1,4 +1,4 @@
-### Jevgenijs Springis 👋
+### Jevgenijs Springis
 **AI prototyping · Business development**
 
 ---
