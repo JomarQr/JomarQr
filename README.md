@@ -1,8 +1,5 @@
-### Hi, I'm Jevgenijs Springis 👋
-
-Growth & Partnerships @ Supvision.ai — building AI agent workflows for regulated fintech. BSc Economics & Business student at SSE Riga.
-
-I build AI prototypes myself and take them to clients — from first idea to a working product, without a separate engineering team behind me.
+### Jevgenijs Springis 👋
+**AI prototyping · Business development**
 
 ---
 
